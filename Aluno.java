@@ -3,7 +3,7 @@ import java.time.LocalDate;
 class Aluno {
     private int matricula;
     private String nome;
-    private LocalDate dataNascimento;
+    private LocalDate dataNascimento; 
 	
 	
 	public Aluno(int matricula, String nome, LocalDate dataNascimento) {
